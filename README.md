@@ -1,2 +1,2 @@
 # ClockSCV
-Common clock for Church in SCV
+Clock for Church in SCV
